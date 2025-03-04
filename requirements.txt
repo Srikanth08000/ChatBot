@@ -1,0 +1,9 @@
+streamlit>=1.24.1
+openai>=0.27.7
+langchain-core>=0.1.0
+langchain-community>=0.1.0
+langchain-openai>=0.1.0
+python-dotenv>=1.0.0
+ollama>=0.1.0  # Add this for the Ollama model support
+typing-extensions>=4.7.1  # Optional but recommended
+requests>=2.31.0  # Ensures HTTP requests compatibility
